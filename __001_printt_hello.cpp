@@ -4,6 +4,7 @@
 #include <iostream>
 using namespace std;
 
-   cout << "chetan!"<< endl;
+int main(){
+   cout<< "chetan!"<< endl;
     return 0;
 }

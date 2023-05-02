@@ -35,18 +35,8 @@ private:
             cout << "\npincode: " << pincode;
         }
 
-         void setrollno(int r)
-         {
-            rollno=r;
-         
-         void setname(char *n){
-            strcpy(name, n);
-         }
+        
 
-        // void showaddress(){
-        //     cout<<"\nhouseno:";
-        //     cout<<"\nstreet:"<<"\ncity:"<<"\nstate:"<<"\npincode:";
-        // }
     };
            
     address add;
