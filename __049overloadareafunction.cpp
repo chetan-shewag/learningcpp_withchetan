@@ -26,3 +26,6 @@ int main(){
     int r;
     return(3.14*r*r);
  }
+   //48,49 heo bntaye  hai abmhi..
+   // vo shru nhii kiya...cpp profgram ki playlist send ki thi??
+   // use he bnaye hai progranm no. 48,49 ...  

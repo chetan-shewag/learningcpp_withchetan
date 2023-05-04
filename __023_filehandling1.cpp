@@ -14,14 +14,14 @@ int main()
     }
     else
     {
-         fout << "hello";
+         fout << "hello chetan";
         cout << "File created successfully";
         fout.close();
     }
     return 0;
-    // fout << "hello";
-    // fout.close();
-    // return 0;
+     fout << "hello";
+     fout.close();
+     return 0;
 }
 
 //   fstream FileName;
