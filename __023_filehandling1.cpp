@@ -19,9 +19,7 @@ int main()
         fout.close();
     }
     return 0;
-     fout << "hello";
-     fout.close();
-     return 0;
+     
 }
 
 //   fstream FileName;
